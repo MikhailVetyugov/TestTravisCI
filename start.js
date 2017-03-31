@@ -4,3 +4,5 @@ badge({ text: ["build", "passed"], colorscheme: "green", template: "flat" },
 	function(svg, err) {
 	  console.log(svg);
 	});
+	
+console.log('...');
