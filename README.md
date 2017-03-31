@@ -1,2 +1,2 @@
 # TestTravisCI
-https://travis-ci.org/MikhailVetyugov/TestTravisCI.svg?branch=master
+![Alt text](https://travis-ci.org/MikhailVetyugov/TestTravisCI.svg?branch=master)
