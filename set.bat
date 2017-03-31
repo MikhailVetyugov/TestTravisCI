@@ -1,0 +1,1 @@
+SET PATH=%PATH%;C:\Users\mikhail.vetyugov\Desktop\TestTravicCI\node_modules\.bin
